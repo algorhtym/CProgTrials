@@ -19,7 +19,6 @@ int main()
 	{
 		fnumber = fnumber*10;
 		denom = denom*10;
-		//printf("%.3f \n %d \n",fnumber,denom);
 	}
 	inumber = (int)fnumber;
 
